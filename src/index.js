@@ -13,6 +13,7 @@ ReactDOM.render(
     <div className="SearchEngine">
       <h1> Weather app </h1>
       <SearchEngine />
+      <a href="https://github.com/amy-712/react-weather-app">Open Sourced</a> by Amy Walker
     </div>
   </StrictMode>,
   rootElement
